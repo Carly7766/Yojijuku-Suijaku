@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3107f3e4843b778479898b376801cdb4, type: 3}
+  m_Name: Question Data
+  m_EditorClassIdentifier: 
+  blankYojijukugoData:
+    sprites:
+    - {fileID: -1827275628, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 1417972327, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 1911521101, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: -32249313, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    answer: 
+    meaning: 
+  yojijukugoDatas:
+  - sprites:
+    - {fileID: -59810511, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 246367748, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 1047626842, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: -1122359234, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: -1931136760, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 953670999, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 1875497747, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: -1491304733, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 2080316696, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 507173505, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 634917635, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 1249423914, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: -608872821, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 1647148581, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 756224422, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: -73880573, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    answer: "\u82B1\u9CE5\u98A8\u6708"
+    meaning: "\u81EA\u7136\u306E\u98A8\u666F\u30FB\u98A8\u7269\u3002\n\u81EA\u7136\u306E\u7F8E\u3057\u3055\u306E\u5F62\u5BB9\u3002\n\u307E\u305F\u3001\u81EA\u7136\u3092\u984C\u6750\u3068\u3057\u305F\u8A69\u6B4C\u3092\n\u305F\u3057\u306A\u3080\u98A8\u6D41\u306B\u3082\u305F\u3068\u3048\u308B\u3002\n(\u6F22\u5B57\u30DA\u30C7\u30A3\u30A2\u3088\u308A\u5F15\u7528)"
+  - sprites:
+    - {fileID: 1955431614, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: -1047693548, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 523610513, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 1250071732, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 1389915991, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: -519031785, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: -434662115, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 1939654279, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 1802050514, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: -1147221293, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: -2127680252, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 1600330621, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: -991984902, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 1979478530, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 27776308, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 675561647, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    answer: "\u5EA6\u5FB3\u91CF\u529B"
+    meaning: "\u81EA\u5206\u306E\u4EBA\u671B\u3068\u529B\u91CF\u3092\u63A8\u3057\u306F\u304B\u3063\u305F\u3046\u3048\u3067\u3001\u4E8B\u306B\u3042\u305F\u308B\u3053\u3068\u3002\u8EAB\u306E\u307B\u3069\u3092\u77E5\u308B\u3053\u3068\u3002\n\u300C\u5EA6\u300D\u300C\u91CF\u300D\u306F\u3068\u3082\u306B\u3001\u306F\u304B\u308B\u30FB\u8A08\u7B97\u3059\u308B\u610F\u3002\u3008\u300E\u6625\u79CB\u5DE6\u6C0F\u4F1D\u300F\u3009\n\r(\u6F22\u5B57\u30DA\u30C7\u30A3\u30A2\u3088\u308A\u5F15\u7528)"
+  - sprites:
+    - {fileID: -404814175, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 1524424698, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: -1178087631, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 1471578469, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: -1768074418, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: -1774991743, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: -1229317825, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 1980052475, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 480936834, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: -702451885, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 1166242769, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: -1621080252, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 1675797856, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 1579223985, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: -350423945, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 2047778715, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    answer: "\u624D\u8272\u517C\u5099"
+    meaning: "\u3059\u3050\u308C\u305F\u624D\u80FD\u3068\u7F8E\u3057\u3044\u5BB9\u59FF\u306E\u4E21\u65B9\u3092\u5099\u3048\u3066\u3044\u308B\u3053\u3068\u3002\n\u591A\u304F\u3001\u5973\u6027\u306B\u3044\u3046\u3002\u300C\u2015\u306E\u5973\u6D41\u4F5C\u5BB6\u300D(\u6F22\u5B57\u30DA\u30C7\u30A3\u30A2\u3088\u308A\u5F15\u7528)"
+  - sprites:
+    - {fileID: -1341301845, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: -1344956519, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: -1113322984, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 863359440, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: -1226992261, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: -452013936, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 1442706380, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 355313250, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 1146849178, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: -1655161415, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: -1320568986, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 1295438342, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 1229992403, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: -2025603123, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: 562917638, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    - {fileID: -1614651165, guid: 46005e62236fe39478fdcda814949b2b, type: 3}
+    answer: "\u9591\u8A71\u4F11\u984C"
+    meaning: "\u305D\u308C\u306F\u3055\u3066\u304A\u304D\u3002\n\u305D\u308C\u305F\u8A71\u984C\u3092\u623B\u3059\u3068\u304D\u306B\u7528\u3044\u308B\u3002\n\u300C\u4F11\u984C\u300D\u306F\u8A71\u3059\u306E\u3092\u3084\u3081\u308B\u610F\u3002\n\u3008\u300E\u6C34\u6EF8\u4F1D(\u30B9\u30A4\u30B3\u30C7\u30F3)\u300F\u3009\r\n(\u6F22\u5B57\u30DA\u30C7\u30A3\u30A2\u3088\u308A\u5F15\u7528)"
